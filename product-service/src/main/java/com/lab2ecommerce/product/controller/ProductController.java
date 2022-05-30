@@ -1,7 +1,7 @@
-package com.lab2ecommerce.controller;
+package com.lab2ecommerce.product.controller;
 
-import com.lab2ecommerce.model.Product;
-import com.lab2ecommerce.repository.ProductRepository;
+import com.lab2ecommerce.product.model.Product;
+import com.lab2ecommerce.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

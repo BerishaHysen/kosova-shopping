@@ -1,4 +1,4 @@
-package com.lab2ecommerce.model;
+package com.lab2ecommerce.product.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
